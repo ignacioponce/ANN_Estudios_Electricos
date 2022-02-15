@@ -5,10 +5,6 @@ import LISread_det
 import pandas as pd
 import numpy as np
 
-
-a = 1
-
-b = 2
 path = r'C:\ATP\ATPDraw6.3\BERNAL\\'
 file = 'prueba_bernal'
 
